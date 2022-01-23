@@ -1,5 +1,8 @@
-### Hi there 👋
+Hello,
 
-- 💬 Ask me about games.
-- 📫 How to reach me: [linktr.ee/p_kostic](https://linktr.ee/p_kostic)
-- ⚡ Fun fact: The average cruising airspeed velocity of an unladen European Swallow is roughly 11 meters per second, or 24 miles an hour.
+I'm just a guy studying accessibility and technology. 
+
+:information_source: To contact me, use [**this form**](https://linktr.ee/p_kostic).
+
+**:star: Fun fact :star:**  
+The average cruising airspeed velocity of an unladen European Swallow is roughly 11 meters per second, or 24 miles an hour.
