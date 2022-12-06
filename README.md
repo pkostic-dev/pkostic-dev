@@ -1,4 +1,4 @@
-# About me
+# About me :relieved:
 
 I'm a [student in accessibility-related technology](https://www.univ-paris8.fr/-Master-Technologie-et-Handicap-676-). I like designing and programming games and other peculiar software.
 
@@ -22,7 +22,7 @@ English :uk:
 
 ## Contact
 
-:envelope: To contact me, use [**this form**](https://linktr.ee/p_kostic).
+:envelope: To contact me, use [LinkedIn](https://linktr.ee/p_kostic) or the form [here](https://linktr.ee/p_kostic).
 
 ## Random facts
 
