@@ -1,6 +1,7 @@
 Hello,
 
-I'm just a guy studying accessibility and technology. 
+I'm a [student in accessibility-related technology](https://www.univ-paris8.fr/-Master-Technologie-et-Handicap-676-). I like designing and programming games.
+Currently [looking for an internship](https://www.linkedin.com/in/predrag-kostic/) !
 
 :information_source: To contact me, use [**this form**](https://linktr.ee/p_kostic).
 
