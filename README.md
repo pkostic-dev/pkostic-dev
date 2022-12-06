@@ -6,7 +6,7 @@ I'm a [student in accessibility-related technology](https://www.univ-paris8.fr/-
 
 :newspaper: I am currently [looking for an internship](https://www.linkedin.com/in/predrag-kostic/) in game development, programming, anything accessibility-related !  
 :headphones: Working on a [audio-only game](https://github.com/pkostic-dev/game-wraith-hunter) for Android using [Godot](https://godotengine.org/) !  
-:space_invader: Working on a secret freelance game project for a company.
+:space_invader: Working on a secret freelance game project for a company, also [Godot](https://godotengine.org/).
 
 ## Previous education
 
@@ -26,7 +26,9 @@ I'm a [student in accessibility-related technology](https://www.univ-paris8.fr/-
 
 ## Random facts
 
-I am fluent in three languages : English, French and Serbian.
+:globe_with_meridians: I am fluent in three languages : english, french, and serbian.  
+I ❤️ Godot.  
+:broken_heart: I don't usually use this many emojis.  
 
 **:star: Random fun fact :star:**  
 The average cruising airspeed velocity of an unladen European Swallow is roughly 11 meters per second, or 24 miles an hour.
