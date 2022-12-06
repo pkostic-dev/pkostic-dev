@@ -2,13 +2,13 @@
 
 I'm a [student in accessibility-related technology](https://www.univ-paris8.fr/-Master-Technologie-et-Handicap-676-). I like designing and programming games and other peculiar software.
 
-## Currently
+## :clock3: Currently
 
 - :newspaper: I am currently [looking for an internship](https://www.linkedin.com/in/predrag-kostic/) in game development, programming, anything accessibility-related !  
 - :headphones: Working on a [audio-only game](https://github.com/pkostic-dev/game-wraith-hunter) for Android using [Godot](https://godotengine.org/) !  
 - :space_invader: Working on a secret freelance game project for a company, also [Godot](https://godotengine.org/).
 
-## Education
+## :school: Education
 
 French :fr:  
 - :wheelchair: 2021-2023 Université Paris 8 - Master Handicap et Technologie  
@@ -20,11 +20,11 @@ English :uk:
 - :video_game: 2019-2021 Université Paris 8 - Bachelors in computer science (video game programming minor)  
 - :computer: 2016-2018 IUT de Montreuil - Computer science degree  
 
-## Contact
+## :mailbox_with_mail: Contact
 
 :envelope: To contact me, use [LinkedIn](https://linktr.ee/p_kostic) or the form [here](https://linktr.ee/p_kostic).
 
-## Random facts
+## :popcorn: Random facts
 
 - :globe_with_meridians: I am fluent in three languages : english, french, and serbian.  
 - I ❤️ Godot.  
