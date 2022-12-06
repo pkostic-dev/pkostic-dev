@@ -26,9 +26,9 @@ English :uk:
 
 ## :popcorn: Random facts
 
-- :globe_with_meridians: I am fluent in three languages : english, french, and serbian.  
+- I am fluent in three languages : english, french, and serbian.  
 - I ❤️ Godot.  
-- :broken_heart: I don't usually use this many emojis.  
+- I don't usually use this many emojis.  
 
 **:star: Bonus fun fact :star:**  
 The average cruising airspeed velocity of an unladen European Swallow is roughly 11 meters per second, or 24 miles an hour.
