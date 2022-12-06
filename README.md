@@ -30,5 +30,6 @@ I'm a [student in accessibility-related technology](https://www.univ-paris8.fr/-
 I ❤️ Godot.  
 :broken_heart: I don't usually use this many emojis.  
 
-**:star: Random fun fact :star:**  
+
+**:star: Bonus fun fact :star:**  
 The average cruising airspeed velocity of an unladen European Swallow is roughly 11 meters per second, or 24 miles an hour.
