@@ -4,7 +4,7 @@ I'm a [student in accessibility-related technology](https://www.univ-paris8.fr/-
 
 ## Currently
 
-:newspaper: I am currently [looking for an internship](https://www.linkedin.com/in/predrag-kostic/) in game development, programming, anything accessibility-related !
+:newspaper: I am currently [looking for an internship](https://www.linkedin.com/in/predrag-kostic/) in game development, programming, anything accessibility-related !  
 :headphones: Working on a audio-only game !  
 :space_invader: Working on a freelance game project for a company.
 
