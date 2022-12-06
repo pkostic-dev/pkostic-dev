@@ -11,14 +11,14 @@ I'm a [student in accessibility-related technology](https://www.univ-paris8.fr/-
 ## :school: Education
 
 French :fr:  
-- :wheelchair: 2021-2023 Université Paris 8 - Master Handicap et Technologie  
-- :video_game: 2019-2021 Université Paris 8 - License Informatique (mineure programmation jeux vidéo)  
-- :computer: 2016-2018 IUT de Montreuil - DUT Informatique  
+- :wheelchair: Université Paris 8 - Master Handicap et Technologie (2021-2023)  
+- :video_game: Université Paris 8 - License Informatique (mineure programmation jeux vidéo) (2019-2021)  
+- :computer: IUT de Montreuil - DUT Informatique (2016-2018)  
 
 English :uk:  
-- :wheelchair: 2021-2023 Université Paris 8 - Masters degree Handicaps and Technology  
-- :video_game: 2019-2021 Université Paris 8 - Bachelors in computer science (video game programming minor)  
-- :computer: 2016-2018 IUT de Montreuil - Computer science degree  
+- :wheelchair: Université Paris 8 - Masters degree Handicaps and Technology (2021-2023)  
+- :video_game: Université Paris 8 - Bachelors in computer science (video game programming minor) (2019-2021)  
+- :computer: IUT de Montreuil - Computer science degree (2016-2018)  
 
 ## :mailbox_with_mail: Contact
 
