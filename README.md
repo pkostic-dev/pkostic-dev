@@ -8,7 +8,7 @@ I'm a [student in accessibility-related technology](https://www.univ-paris8.fr/-
 - :headphones: Working on a [audio-only game](https://github.com/pkostic-dev/game-wraith-hunter) for Android using [Godot](https://godotengine.org/) !  
 - :space_invader: Working on a secret freelance game project for a company, also [Godot](https://godotengine.org/).
 
-## Previous education
+## Education
 
 French :fr:  
 - :wheelchair: 2021-2023 Université Paris 8 - Master Handicap et Technologie  
