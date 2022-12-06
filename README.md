@@ -16,7 +16,7 @@ I'm a [student in accessibility-related technology](https://www.univ-paris8.fr/-
 
 ## Contact
 
-:information_source: To contact me, use [**this form**](https://linktr.ee/p_kostic).
+:envelope: To contact me, use [**this form**](https://linktr.ee/p_kostic).
 
 **:star: Fun fact :star:**  
 The average cruising airspeed velocity of an unladen European Swallow is roughly 11 meters per second, or 24 miles an hour.
