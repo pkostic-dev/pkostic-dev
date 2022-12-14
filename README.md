@@ -1,4 +1,4 @@
-# About me :relieved:
+# About me :rat:
 
 I'm a [student in accessibility-related technology](https://www.univ-paris8.fr/-Master-Technologie-et-Handicap-676-). I like designing and programming games and other peculiar software.
 
