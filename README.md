@@ -22,7 +22,7 @@ English :uk:
 
 ## :mailbox_with_mail: Contact
 
-:envelope: To contact me, use [LinkedIn](https://linktr.ee/p_kostic) or the form [here](https://linktr.ee/p_kostic).
+To contact me, use [LinkedIn](https://linktr.ee/p_kostic) or the form [here](https://linktr.ee/p_kostic).
 
 ## :popcorn: Random facts
 
