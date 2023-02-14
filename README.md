@@ -4,7 +4,6 @@ I'm a [student in accessibility-related technology](https://www.univ-paris8.fr/-
 
 ## :clock3: Currently
 
-- :newspaper: I am currently [looking for an internship](https://www.linkedin.com/in/predrag-kostic/) in game development, programming, anything accessibility-related !  
 - :headphones: Working on a [audio-only game](https://github.com/pkostic-dev/game-wraith-hunter) for Android using [Godot 4](https://godotengine.org/) !
 
 ## :school: Education
