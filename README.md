@@ -1,13 +1,16 @@
 # About me 🏴‍☠️ 🐀
 
-I'm a [student in accessibility-related technology](https://www.univ-paris8.fr/-Master-Technologie-et-Handicap-676-). I like designing and programming games and other peculiar software.
+I'm just a fellow trying to make games, Master in [accessibility-related technology](https://www.univ-paris8.fr/-Master-Technologie-et-Handicap-676-). I like designing and programming games and other peculiar software.
 
 ## 🤖 Currently
 
-Currently interning at a research laboratory, working with robots and depth cameras.
-
+- Theater project involving robots and depth cameras.
+- Trying to make games : multiplayer strategy game, rat game.
+- Trying to make software : Monster Hunter Freedom Bible.
+ 
 ## 🕒 Previously
 
+- 🤖 Interning at a research laboratory, working with robots and depth cameras.
 - :headphones: Working on a [audio-only game](https://github.com/pkostic-dev/game-wraith-hunter) for Android using [Godot 4](https://godotengine.org/) !
 
 ## :school: Education
@@ -24,7 +27,7 @@ Currently interning at a research laboratory, working with robots and depth came
 
 ## :mailbox_with_mail: Contact
 
-To contact me, use [LinkedIn](https://www.linkedin.com/in/predrag-kostic/) or this [linktr.ee form](https://linktr.ee/p_kostic).
+To contact me, use [LinkedIn](https://www.linkedin.com/in/predrag-kostic/).
 
 ## :popcorn: Random facts
 
