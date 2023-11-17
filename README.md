@@ -27,7 +27,7 @@ I'm just a fellow trying to make games, Master in [accessibility-related technol
 
 ## :mailbox_with_mail: Contact
 
-To contact me, use [LinkedIn](https://www.linkedin.com/in/predrag-kostic/).
+To contact me about job offers use [LinkedIn](https://www.linkedin.com/in/predrag-kostic/).
 
 ## :popcorn: Random facts
 
