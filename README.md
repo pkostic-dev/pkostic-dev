@@ -2,14 +2,16 @@
 
 I'm just a fellow trying to make games, Master in [accessibility-related technology](https://www.univ-paris8.fr/-Master-Technologie-et-Handicap-676-). I like designing and programming games and other peculiar software.
 
-## 🤖 Currently
+## 🎮 Currently
 
-- Theater project involving robots and depth cameras.
-- Trying to make games : multiplayer strategy game, rat game.
-- Trying to make software : Monster Hunter Freedom Bible.
+- Singleplayer game called Peace Village.
+- Audio Accessibility Kit addon for Godot 4.
+- Accessibility Settings addon for Godot 4.
+- Multiplayer game called R.A.T.S.
  
 ## 🕒 Previously
 
+- Theater project involving robots and depth cameras.
 - 🤖 Interning at a research laboratory, working with robots and depth cameras.
 - :headphones: Working on a [audio-only game](https://github.com/pkostic-dev/game-wraith-hunter) for Android using [Godot 4](https://godotengine.org/) !
 
