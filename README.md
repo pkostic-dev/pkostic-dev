@@ -2,12 +2,9 @@
 
 I'm just a fellow trying to make games, Master in [accessibility-related technology](https://www.univ-paris8.fr/-Master-Technologie-et-Handicap-676-). I like designing and programming games and other peculiar software.
 
-## 🎮 Currently
+## 🎮 Currently working on
 
-- Singleplayer game called Peace Village.
-- Audio Accessibility Kit addon for Godot 4.
-- Accessibility Settings addon for Godot 4.
-- Multiplayer game called R.A.T.S.
+- Prototype 2D platformer game
  
 ## 🕒 Previously
 
